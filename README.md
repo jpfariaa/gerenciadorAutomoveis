@@ -28,7 +28,7 @@ Este é um sistema de gerenciamento de pedidos de compra de veículos desenvolvi
 ### Passos para Executar
 
 1. Clone o repositório:  
-   ``git clone https://github.com/seu-usuario/gerenciamento-automoveis.git
+   ``git clone https://github.com/jpfariaa/gerenciadorAutomoveis.git
    cd gerenciamento-automoveis``
 
 2. Compile e execute o projeto:
@@ -42,7 +42,7 @@ Este é um sistema de gerenciamento de pedidos de compra de veículos desenvolvi
 O projeto utiliza H2 Database configurado para rodar em memória por padrão.
 Para acessar o console do H2, vá para http://localhost:8080/h2-console e use as credenciais padrão:
 
-- JDBC URL: ``jdbc:h2:mem:testdb``
+- JDBC URL: ``jdbc:h2:mem:automoveisdb``
 - Username: ``sa``
 - Password: ``password``
 
