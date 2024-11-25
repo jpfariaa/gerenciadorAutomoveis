@@ -28,8 +28,8 @@ Este é um sistema de gerenciamento de pedidos de compra de veículos desenvolvi
 ### Passos para Executar
 
 1. Clone o repositório:  
-   ``git clone https://github.com/jpfariaa/gerenciadorAutomoveis.git
-   cd gerenciamento-automoveis``
+   ``git clone https://github.com/jpfariaa/gerenciadorAutomoveis.git``
+   ``cd gerenciadorAutomoveis``
 
 2. Compile e execute o projeto:
   ``mvn spring-boot:run``
